@@ -1,5 +1,5 @@
 # Introduction
-This note will contains practical skills for ethical hacking.
+This note will contain practical skills for ethical hacking.
 
 # Reference
 - [Overview of Kali Linux](#overview-of-kali-linux)
