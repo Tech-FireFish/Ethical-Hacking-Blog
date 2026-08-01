@@ -12,6 +12,8 @@ Nobody likes their property getting stolen. We lock our doors, build fences, and
 
 **Note:** You can view the previous blog to learn more about security hardenging in [HERE](https://github.com/Tech-FireFish/Ethical-Hacking-Blog/blob/main/EHDay2.md).
 
+Let’s dive in now. 😄
+
 ## Disable services that are not in use.
 
 Every unnecessary running service increases the attack surface.
