@@ -164,6 +164,6 @@ print(greeting + " " +  name + ", We are happy to have you onboard as a " + role
 Congratulations. You made it all the way here. 😄
 
 **Credits**
-- Tech-FireFish, Contributor, Profile URL
+- Tech-FireFish, Contributor, Profile [URL](https://github.com/Tech-FireFish)
 
-- IBM Ethical Hacking with Open Source Tools Professional Certificate instructed by IBM Skills Network Team, Dee Dee Collette, Christo Oehley on Coursera platform, 2024, [URL].
+- IBM Ethical Hacking with Open Source Tools Professional Certificate instructed by IBM Skills Network Team, Dee Dee Collette, Christo Oehley on Coursera platform, 2024, [URL](https://www.coursera.org/professional-certificates/ibm-ethical-hacking-with-open-source-tools).
